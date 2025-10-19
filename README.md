@@ -132,5 +132,39 @@ cd SmartTanker
 
 
 
-## 🧱 System Architecture
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
